@@ -22,7 +22,7 @@ Examples: Datos de salida
 Scenario: 
 Given que el usuario se encuentra en el footer
 When el usuario seleccione una de íconos de las redes sociales que aparecen la sección del footer
-Then el sistema redirigirá al usuario a la red social indicada.
+Then el sistema redirigira al usuario a la red social indicada.
 
 Examples: Datos de entrada
     | Red Social | Acción | 
